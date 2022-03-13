@@ -6,12 +6,17 @@
 # About
 I am A student 4th at **International University** and Data engineer at **FPT-Software**.
 
-My strongest stacks are Python, Airflow, PostgreSQL and MongoDB. I am experienced with automation pipeline and source control from GCP and Gitlab. 
+**Machine learning skills:**
+- Data analysis and feature engineering skills, ML Algorithms selection, Metric understanding and
+developing, Cross-validation, Optimization, ....
+- Frameworks: Pytorch, Tensorflow, Sklearn.
+
+**Data engineering skills:**
+- Knowledge of database architecture and designing data pipeline.
+- Frameworks: Airflow, Kafka, Apache Spark.
+- Databases tools: MySQL, PostgreSQL, MongoDB.
 
 # 📘 My top open source projects
-
-<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
   <a href="https://github.com/DatacollectorVN/Docker-Tutorial"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DatacollectorVN&repo=Docker-Tutorial&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Docker-Tutorial"></a>  
   <a href="https://github.com/DatacollectorVN/Chest-Xray-Version2"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DatacollectorVN&repo=Chest-Xray-Version2&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="Chest-Xray-Version2"></a>
