@@ -30,10 +30,10 @@ My strongest stacks are Python, Airflow, PostgreSQL and MongoDB. I am experience
   <img width="35" style="margin-left:30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg"/> 
   <img width="35" style="margin-left:30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/> 
   <img width="30" style="margin-left:30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/pytorch.svg"/>
-  <img width="35" style="margin-left:30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/173px-Tensorflow_logo.svg.png?20170429160244"/>  
+  <img width="50" style="margin-left:30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/1229px-TensorFlowLogo.svg.png"/>  
   <img width="35" style="margin-left:30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/airflow.svg"/> 
   <img width="75" style="margin-left:30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kafka.svg"/> 
-  <img width="75" style="margin-left:30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/768px-Apache_Spark_logo.svg.png?20210416091439"/> 
+  <img width="75" style="margin-left:30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1024px-Apache_Spark_logo.svg.png"/> 
   <img width="50" style="margin-left:30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg"/>
   <img width="35" style="margin-left:30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/postgresql.svg"/> 
   <img width="75" style="margin-left:30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mongodb.svg"/> 
