@@ -19,9 +19,11 @@ developing, Cross-validation, Optimization, ....
 # 📘 My top open source projects
 <p align="left">
   <a href="https://github.com/DatacollectorVN/Docker-Tutorial"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DatacollectorVN&repo=Docker-Tutorial&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Docker-Tutorial"></a>  
-  <a href="https://github.com/DatacollectorVN/Chest-Xray-Version2"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DatacollectorVN&repo=Chest-Xray-Version2&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="Chest-Xray-Version2"></a>
-  
+  <a href="https://github.com/DatacollectorVN/Airflow-Tutorial"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DatacollectorVN&repo=Airflow-Tutorial&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="Airflow-Tutorial"></a>
   <a href="https://github.com/DatacollectorVN/fpt-ai-data-competition"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DatacollectorVN&repo=fpt-ai-data-competition&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="fpt-ai-data-competition"></a>
+
+  <a href="https://github.com/DatacollectorVN/Big-Data-Architecture-To-Scale-AI-application"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DatacollectorVN&repo=Big-Data-Architecture-To-Scale-AI-application&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="Big-Data-Architecture-To-Scale-AI-application"></a>
+  <a href="https://github.com/DatacollectorVN/Chest-Xray-Version2"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DatacollectorVN&repo=Chest-Xray-Version2&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="Chest-Xray-Version2"></a>
   <a href="https://github.com/DatacollectorVN/Data-Engineer-Fundamental"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DatacollectorVN&repo=Data-Engineer-Fundamental&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="Data-Engineer-Fundamental"></a>
 </p>
 
@@ -34,9 +36,9 @@ developing, Cross-validation, Optimization, ....
   <img width="35" style="margin-left:30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg"/> 
   <img width="35" style="margin-left:30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg"/> 
   <img width="35" style="margin-left:30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/> 
-  <img width="30" style="margin-left:30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/pytorch.svg"/>
+  <img width="70" style="margin-left:30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/pytorch.svg"/>
   <img width="50" style="margin-left:30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/1229px-TensorFlowLogo.svg.png"/>  
-  <img width="35" style="margin-left:30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/airflow.svg"/> 
+  <img width="70" style="margin-left:30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/airflow.svg"/> 
   <img width="75" style="margin-left:30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kafka.svg"/> 
   <img width="75" style="margin-left:30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1024px-Apache_Spark_logo.svg.png"/> 
   <img width="50" style="margin-left:30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg"/>
