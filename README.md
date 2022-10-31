@@ -4,7 +4,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DatacollectorVN&theme=dark)](https://git.io/streak-stats)
 
 # About
-I am  student 4th at **International University** and Data engineer at **FPT-Software**.
+I am Data engineer at **FPT-Software**.
 
 **Machine learning skills:**
 - Data analysis and feature engineering skills, ML Algorithms selection, Metric understanding and
